@@ -1,0 +1,14 @@
+html {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    display: flex;
+    align-self: center;
+}
+
+p {
+    display: flex;
+    align-self: center;
+}
